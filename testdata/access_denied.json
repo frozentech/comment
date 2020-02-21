@@ -1,0 +1,5 @@
+{
+  "error": "incorrect_client_credentials",
+  "error_description": "The client_id and/or client_secret passed are incorrect.",
+  "error_uri": "https://developer.github.com/v3/apps/building-integrations/setting-up-and-registering-oauth-apps/troubleshooting-oauth-app-access-token-request-errors/#incorrect-client-credentials"
+}
